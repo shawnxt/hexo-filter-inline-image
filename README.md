@@ -2,7 +2,7 @@
 hexo-filter-inline-image
 ## Installation
 
-
+npm i hexo-filter-inline-image
 
 ## Usage
 
